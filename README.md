@@ -1,6 +1,6 @@
 # C README
 
-![C Logo](https://www.learn-c.org/assets/img/logo.png)
+![C Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fc-language&psig=AOvVaw2rJWi3E4RA-6_WyEKYi7AY&ust=1693011089076000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLi4rfbL9oADFQAAAAAdAAAAABAE)
 
 Welcome to the C README! This guide is designed to introduce you to the fundamentals of C programming. Whether you're a beginner or an experienced programmer, this README will provide you with essential information, resources, and insights to make your C programming journey productive and enjoyable.
 
